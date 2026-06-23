@@ -15,11 +15,35 @@ A collection of Core Java and Advanced Java projects created to strengthen progr
 
 ## Projects Included
 
- << Core-Java >>
-- CBSE Percentage Calculator
-- CGPA Calculator
-- Grade Calculator
-- Greeting System
+### Level 1 (Basic)
+
+#### 1. CBSE Percentage Calculator
+Calculates percentage from user-entered marks.
+
+#### 2. Sum Three Numbers
+Calculates the sum of three user-entered numbers.
+
+#### 3. CGPA Calculator
+Computes CGPA from marks or grades.
+
+#### 4. Greeting User
+Generates a personalized greeting message.
+
+#### 5. Kilometer to Meter Converter
+Converts distance from kilometers to meters.
+
+#### 6. Integer Checker
+Checks whether the entered value is an integer.
+
+
+Level 2 (Intermediate)
+→ Student Management System
+→ Library Management System
+→ ATM System
+
+Level 3 (Resume Projects)
+ soon......
+
 
 
 ## Author
