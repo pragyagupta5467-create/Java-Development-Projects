@@ -1,8 +1,8 @@
-# Java Development Projects
+ Java Development Projects
 
 A collection of Core Java and Advanced Java projects created to strengthen programming, object-oriented design, and software development skills.
 
-## Topics Covered
+ Topics Covered
 - Core Java
 - OOPs
 - Collections Framework
@@ -13,26 +13,26 @@ A collection of Core Java and Advanced Java projects created to strengthen progr
 - Java 8 Features
 
 
-## Projects Included
+ Projects Included
 
-### Level 1 (Basic)
+ Level 1 (Basic)
 
-#### 1. CBSE Percentage Calculator
+ 1. CBSE Percentage Calculator
 Calculates percentage from user-entered marks.
 
-#### 2. Sum Three Numbers
+ 2. Sum Three Numbers
 Calculates the sum of three user-entered numbers.
 
-#### 3. CGPA Calculator
+ 3. CGPA Calculator
 Computes CGPA from marks or grades.
 
-#### 4. Greeting User
+ 4. Greeting User
 Generates a personalized greeting message.
 
-#### 5. Kilometer to Meter Converter
+ 5. Kilometer to Meter Converter
 Converts distance from kilometers to meters.
 
-#### 6. Integer Checker
+ 6. Integer Checker
 Checks whether the entered value is an integer.
 
 
