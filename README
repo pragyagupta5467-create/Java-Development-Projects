@@ -17,23 +17,41 @@ A collection of Core Java and Advanced Java projects created to strengthen progr
 
  Level 1 (Basic)
 
- 1. CBSE Percentage Calculator
-Calculates percentage from user-entered marks.
+1. CBSE Percentage Calculator
+  Calculates the percentage based on marks entered by the user.
 
- 2. Sum Three Numbers
-Calculates the sum of three user-entered numbers.
+2. Sum Three Numbers
+ Calculates the sum of three numbers entered by the user.
 
- 3. CGPA Calculator
-Computes CGPA from marks or grades.
+3. CGPA Calculator
+ Computes the CGPA using the marks or grades provided by the user.
 
- 4. Greeting User
-Generates a personalized greeting message.
+4. Greeting User
+ Generates a personalized greeting message using the user's name.
 
- 5. Kilometer to Meter Converter
-Converts distance from kilometers to meters.
+5. Kilometer to Meter Converter
+ Converts distance from kilometers to meters.
 
- 6. Integer Checker
-Checks whether the entered value is an integer.
+6. Integer Checker
+ Checks whether the user-entered value is an integer.
+
+7. String to Lowercase Converter
+  Converts all characters of a string to lowercase.
+
+8. Replace Spaces with Underscores
+  Replaces all spaces in a string with underscores.
+
+9. Letter Template Generator
+  Replaces placeholders in a letter template with user-provided values.
+
+10. Detect Multiple Spaces
+  Detects double and triple spaces in a given string.
+
+11. Escape Sequence Formatter
+  Formats text using Java escape sequence characters such as `\n` and `\t`.
+
+12. FormattedLetterGenerator
+  Formats a user-entered message using Java escape sequence characters for better readability.
 
 
 Level 2 (Intermediate)
