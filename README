@@ -53,11 +53,19 @@ A collection of Core Java and Advanced Java projects created to strengthen progr
 12. FormattedLetterGenerator
   Formats a user-entered message using Java escape sequence characters for better readability.
 
+13. Leap Year Checker
+  Checks whether a given year is a leap year using conditional statements.
+
+14. Website Type Checker
+  Identifies the type of website based on its domain extension.
+
 
 Level 2 (Intermediate)
-→ Student Management System
-→ Library Management System
-→ ATM System
+
+1. Rock-Paper-Scissors 
+   A simple console-based Rock Paper Scissors game built using Java.
+
+
 
 Level 3 (Resume Projects)
  soon......
