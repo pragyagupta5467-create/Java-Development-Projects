@@ -59,6 +59,18 @@ A collection of Core Java and Advanced Java projects created to strengthen progr
 14. Website Type Checker
   Identifies the type of website based on its domain extension.
 
+15. Pattern Printing
+    Prints different star patterns using nested loops in Java.
+
+16. Sum of First N Even Numbers
+    Calculates the sum of the first N even numbers using a loop.
+
+17. Multiplication Table
+    Generates the multiplication table of a given number in normal and reverse order.
+
+18. Factorial Calculator
+    Calculates the factorial of a number using for and while loops.
+
 
 Level 2 (Intermediate)
 
