@@ -77,6 +77,29 @@ Level 2 (Intermediate)
 1. Rock-Paper-Scissors 
    A simple console-based Rock Paper Scissors game built using Java.
 
+2. Array Sum Calculator
+  Calculates the sum of all elements in a float array.
+
+3. Array Search
+  Checks whether a given integer is present in an array.
+
+4. Average Marks Calculator
+  Calculates the average marks of students using a for-each loop.
+
+5. Matrix Addition
+  Adds two 2×3 matrices and displays the result.
+
+6. Array Reversal
+  Reverses the elements of an array.
+
+7. Maximum Element Finder
+  Finds the largest element in an array.
+
+8. Minimum Element Finder
+  Finds the smallest element in an array.
+
+9. Array Sorted Checker
+  Checks whether an array is sorted in ascending order.
 
 
 Level 3 (Resume Projects)
